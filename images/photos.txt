@@ -1,0 +1,13 @@
+Put all your photos in this folder.
+
+Recommended filenames:
+- me.jpg          → your profile photo (About section + nav avatar)
+- hero.jpg        → main hero section photo
+- photo1.jpg      → gallery photo 1
+- photo2.jpg      → gallery photo 2
+- photo3.jpg      → gallery photo 3
+... and so on
+
+Then update the src= paths in index.html to match.
+See README.md for full instructions.
+
