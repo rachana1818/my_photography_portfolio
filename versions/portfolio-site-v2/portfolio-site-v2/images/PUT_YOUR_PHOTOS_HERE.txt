@@ -1,0 +1,4 @@
+Your photos go here. Expected filenames:
+  photo1.JPG through photo13.JPG  → gallery
+  me.jpg (or me.JPG)              → your profile photo (About + nav)
+  hero.JPG                        → hero section main image (optional)
