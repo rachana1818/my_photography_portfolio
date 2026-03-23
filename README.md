@@ -1,10 +1,10 @@
-# í³¸ My Photography Portfolio
+# ðŸ“¸ My Photography Portfolio
 
 A warm, green-themed personal photography portfolio website â€” built with pure HTML, CSS, and JavaScript. No frameworks, no dependencies. Just drop it on any host and go.
 
 ---
 
-## í·‚ Project Structure
+## ðŸ—‚ Project Structure
 
 ```
 portfolio-site/
@@ -36,7 +36,7 @@ Open `index.html` in any text editor (VS Code recommended) and find + replace th
 
 ---
 
-## í¶¼ Adding Your Photos
+## ðŸ–¼ Adding Your Photos
 
 ### 1. Profile photo (About section + Nav avatar)
 
@@ -83,7 +83,7 @@ You can add or remove as many `masonry-item` blocks as you like.
 
 ---
 
-## í²° Updating Prices
+## ðŸ’° Updating Prices
 
 Find the Services section in `index.html` and update the `.s-price` divs:
 
@@ -95,7 +95,7 @@ Change the currency symbol (â‚¹) and amount to match your pricing.
 
 ---
 
-## íº€ Deploying to Cloudflare Pages
+## ðŸš€ Deploying to Cloudflare Pages
 
 ### First time setup
 
@@ -146,7 +146,7 @@ git push
 
 ---
 
-## í¾¨ Design Notes
+## ðŸŽ¨ Design Notes
 
 - **Colours:** Light green & white palette with sage, mint, and deep forest green accents
 - **Fonts:** Playfair Display (headings) + DM Sans (body) â€” loaded from Google Fonts
@@ -159,7 +159,7 @@ git push
 
 ---
 
-## í»  Recommended Tools
+## ðŸ›  Recommended Tools
 
 - **Code editor:** [VS Code](https://code.visualstudio.com/) (free)
 - **Git GUI (optional):** [GitHub Desktop](https://desktop.github.com/) â€” easier than command line
@@ -168,7 +168,7 @@ git push
 
 ---
 
-## í³¬ Contact Form Note
+## ðŸ“¬ Contact Form Note
 
 The contact form currently shows a success message on submit but **does not actually send emails** â€” it's UI only. To make it fully functional, consider connecting it to a free service like:
 
@@ -177,5 +177,4 @@ The contact form currently shows a success message on submit but **does not actu
 
 ---
 
-Made with í¼¿ and lots of love for photography.
-
+Made with ðŸŒ¿ and lots of love for photography.
